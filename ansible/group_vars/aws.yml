@@ -16,7 +16,7 @@ global_users:
   kamama:
     ubuntu_groups: sudo
     givenName:  Kayreddine AMAMA
-    ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQD4WMYPTABbCcUIiNT7XBnF5mMILZfMM/wacMXWekZsdgm8oIVGM6I2+9ggIuEO3DY7pu75X+WdQ2IGXOcHLvSZrasImBOdO0W9wFUoCg6GAqP0evPjb2FfNOBr769oPEDxjBxWaWGwJ+KZUtJHTmdbXnZB34rgYbCJPUXfTQFd4S2SuAWkK8Y8JaOK06snX$"
+    ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQD4WMYPTABbCcUIiNT7XBnF5mMILZfMM/wacMXWekZsdgm8oIVGM6I2+9ggIuEO3DY7pu75X+WdQ2IGXOcHLvSZrasImBOdO0W9wFUoCg6GAqP0evPjb2FfNOBr769oPEDxjBxWaWGwJ+KZUtJHTmdbXnZB34rgYbCJPUXfTQFd4S2SuAWkK8Y8JaOK06snXxabc/jpe9kd1fXQrjTDPJ8tW00PCUQRW5Th+I3iFHUT/+0+SuC9BGPrRFflBOz1ZV+JS9XzaTsPwpGJEiJIgOenUEHhDNE1KbraRIxaw3gr9TEw6EwA5qGQqvm6gpoM8KmIhFh/xGTScMV7fbouPDuP root@Kayreddine"
   qarrachart:
     ubuntu_groups: sudo
     givenName:  Quentin Arrachart
